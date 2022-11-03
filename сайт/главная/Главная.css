@@ -1,0 +1,19 @@
+.zagolovok{
+    font-size: 5ch;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(/bcgimg/StockSnap_A0DYKMDRAL-1-1024x683.jpg);
+    background-size: 100%;
+}
+.body{
+    background-image: url(/bcgimg/зеркало.jpg);
+    background-size: 100%;
+}
+.nachaloperechisl{
+    background-color: rgba(18, 18, 18, 0.6); 
+    padding: 10px; 
+    color: #fff;
+   
+     
+    
+}
